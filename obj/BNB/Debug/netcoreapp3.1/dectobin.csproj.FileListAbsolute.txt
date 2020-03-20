@@ -1,0 +1,11 @@
+C:\C#\dectobin\obj\BNB\Debug\netcoreapp3.1\dectobin.csprojAssemblyReference.cache
+C:\C#\dectobin\obj\BNB\Debug\netcoreapp3.1\dectobin.AssemblyInfoInputs.cache
+C:\C#\dectobin\obj\BNB\Debug\netcoreapp3.1\dectobin.AssemblyInfo.cs
+C:\C#\dectobin\bin\BNB\Debug\netcoreapp3.1\dectobin.exe
+C:\C#\dectobin\bin\BNB\Debug\netcoreapp3.1\dectobin.deps.json
+C:\C#\dectobin\bin\BNB\Debug\netcoreapp3.1\dectobin.runtimeconfig.json
+C:\C#\dectobin\bin\BNB\Debug\netcoreapp3.1\dectobin.runtimeconfig.dev.json
+C:\C#\dectobin\bin\BNB\Debug\netcoreapp3.1\dectobin.dll
+C:\C#\dectobin\bin\BNB\Debug\netcoreapp3.1\dectobin.pdb
+C:\C#\dectobin\obj\BNB\Debug\netcoreapp3.1\dectobin.dll
+C:\C#\dectobin\obj\BNB\Debug\netcoreapp3.1\dectobin.pdb
